@@ -1,5 +1,3 @@
-Jupyter Link: http://localhost:8888/notebooks/Fraud_Detection_Assignment.ipynb
-
 Fraud Detection using Machine Learning | Python, Scikit-learn, Pandas, Matplotlib
 
 Built a fraud detection model to identify fraudulent transactions using machine learning techniques.
